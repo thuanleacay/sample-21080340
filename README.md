@@ -36,44 +36,4 @@
 		<img class="box" src="anh5.jpg" title="Thuấn đi tắm thác cùng bạn bè">
 		<img class="box" src="anh6.jpg" title="Thuấn kết thúc năm học cấp 3">
 	</div><br>
-	<div>
-		<table>
-			<tr>
-				<th>#</th>
-				<th>Món ăn yêu thích</th>
-				<th>Môn thể thao yêu thích</th>
-				<th>Bộ phim yêu thích</th>
-				<th>Trò chơi yêu thích</th>
-			</tr>
-			<tr>
-				<td>1</td>
-				<td>Sườn xào chua ngọt</td>
-				<td>Đạp xe</td>
-				<td>Howl's Moving Castle</td>
-				<td>HayDay</td>
-				
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>Thịt rang cháy cạnh</td>
-				<td>Bơi lội </td>
-				<td>Ponyo on the cliff by the sea </td>
-				<td>League of Legends</td>
-			</tr>
-			<tr>
-				<td>3</td>
-				<td>Bún chả</td>
-				<td>Tập Gym</td>
-				<td>Doreamon - Chú mèo máy đến từ tương lai</td>
-				<td>Valorant</td>
-			</tr>
-			<tr>
-				<td>4</td>
-				<td>Bánh quấn</td>
-				<td>Chạy bộ</td>
-				<td>Shin - Cậu bé bút chì</td>
-				<td>Plants and Zombies</td>
-			</tr>
-		</table>
-	</div><br>
-	
+
